@@ -95,8 +95,12 @@ a {
 footer {
     text-align: center;
 }
+footer a{
+    color: var(--SoftMagenta);
+}
 footer .attribution {
     font-size: 14px;
+    
 }
 /* desktop view */
 @media only screen and (min-width: 1200px) {
