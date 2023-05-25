@@ -100,7 +100,6 @@ footer a{
 }
 footer .attribution {
     font-size: 14px;
-    
 }
 /* desktop view */
 @media only screen and (min-width: 1200px) {
@@ -123,8 +122,8 @@ footer .attribution {
         width: 500px;
     }
 }
-/* mobile view */
 
+/* mobile view */
 @media only screen and (max-width:376px) {
     body {
         background-image: url(../images/bg-mobile.svg);
